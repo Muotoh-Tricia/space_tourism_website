@@ -60,7 +60,7 @@ export default {
 */
 
 .technology-container {
-    background-image: url(/src/assets/technology/background-technology-desktop.jpg);
+    background-image: url(/images/technology/background-technology-desktop.jpg);
     color: white;
     background-size: cover;
     background-position: center;
@@ -118,7 +118,7 @@ button.active {
 
 @media screen and (min-width:320px) and (max-width: 480px) {
     .technology-container {
-        background: url(/src/assets/technology/background-technology-mobile.jpg);
+        background: url(/images/technology/background-technology-mobile.jpg);
         height: 100%;
     }
     .technology{

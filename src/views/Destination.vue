@@ -61,7 +61,7 @@ export default {
 
 <style scoped>
 .destination-container {
-    background-image: url(/src/assets/destination/background-destination-desktop.jpg);
+    background-image: url(/images/destination/background-destination-desktop.jpg);
     background-size: cover;
     background-position: center;
     width: 100vw;

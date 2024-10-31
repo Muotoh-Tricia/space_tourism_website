@@ -50,7 +50,7 @@ export default {
 
 <style scoped>
 .crew-container {
-    background-image: url(/src/assets/crew/background-crew-desktop.jpg);
+    background-image: url(/images/crew/background-crew-desktop.jpg);
     color: white;
     background-size: cover;
     background-position: center;
